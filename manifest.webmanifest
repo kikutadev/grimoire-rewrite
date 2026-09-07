@@ -1,0 +1,19 @@
+{
+  "name": "Grimoire Rewrite",
+  "short_name": "Grimoire",
+  "description": "白蝕で失われた世界を、魔導書と編纂術で書き戻して進む縦持ち放置育成RPG。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9e1cf",
+  "theme_color": "#f4eedf",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Grimoire Rewrite icon">
+  <rect width="512" height="512" rx="96" fill="#efe4c8"/>
+  <path d="M96 124c60-18 112-9 160 28v260c-48-37-100-46-160-28V124Z" fill="#f8f0d8" stroke="#5b4a3a" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M416 124c-60-18-112-9-160 28v260c48-37 100-46 160-28V124Z" fill="#e9dcc0" stroke="#5b4a3a" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M256 152v260" stroke="#5b4a3a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M148 205h62M148 252h76M148 299h52" stroke="#4aa6b3" stroke-width="16" stroke-linecap="round"/>
+  <path d="M304 218c34-26 62-26 86 0-23 2-40 11-52 29 29-6 53 1 72 22-36 1-64 12-84 34" fill="none" stroke="#5bbbc6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
